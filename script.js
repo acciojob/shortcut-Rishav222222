@@ -9,7 +9,7 @@ function shortcut(s1, s2) {
 	const firstChar = s1.charAt(0);
 	const secondChar = s2.charAt(0);
 
-	return firstChar + secondChar;
+	return firstChar + secondChar; 
 }
 
 // Do not change the code below.
